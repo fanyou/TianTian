@@ -6,7 +6,6 @@ import org.springframework.web.portlet.bind.annotation.ResourceMapping;
 
 /**
  * @author fanyou
- * @description
  * @date 2018/12/23 23:06
  **/
 @Controller
